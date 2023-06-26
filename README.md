@@ -19,3 +19,6 @@
     'There is added code to re-run the numbers for the established Ticker groups to verify the data
 
 'Lastly I have included in this repository a scrren shot for each of the following years - 2018,2019,2020 showing the full results for each sheet
+
+'Note the full sheet data is to large to add to a github repository or the canvas website, that is why the screenshots are shared
+'If testing the code is needed the file "alphabetical_testing.xlsm" has been added to t6his repository with the final code loaded in
